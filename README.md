@@ -18,6 +18,7 @@
 - **部署**: 腾讯云轻量应用服务器
 
 ## 项目结构
+```
 yanshuimitao-backend/
 ├── app.py # 主应用文件
 ├── config.py # 配置文件
@@ -27,6 +28,7 @@ yanshuimitao-backend/
 └── utils/ # 工具类
 ├── cloud_storage.py # 云存储工具
 └── doubao_ai_generator.py # AI生成器
+```
 
 
 ## 快速开始
@@ -42,4 +44,5 @@ yanshuimitao-backend/
 - `DELETE /api/materials/{id}` - 删除素材
 
 ## 许可证
+
 MIT License
