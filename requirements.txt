@@ -5,7 +5,7 @@ Flask-CORS==4.0.0
 Werkzeug==2.3.7
 
 # 数据库
-PyMySQL==1.0.0
+PyMySQL==1.1.1
 cryptography==3.4.0
 greenlet==3.0.1
 
