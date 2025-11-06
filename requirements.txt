@@ -14,7 +14,7 @@ cos-python-sdk-v5==1.9.38
 volcengine-python-sdk[ark]==1.0.0
 
 # 工具包
-requests==2.31.0
+requests==2.32.4
 python-dotenv==1.0.0
 Pillow==10.0.0
 
