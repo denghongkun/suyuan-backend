@@ -19,4 +19,4 @@ python-dotenv==1.0.0
 Pillow==10.0.0
 
 # 生产环境服务器
-gunicorn==21.2.0
+gunicorn==22.0.0
